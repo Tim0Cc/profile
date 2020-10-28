@@ -20,12 +20,6 @@
     margin: 0px auto;
   }
 }
-@media (max-width: 480px) {
-  .container {
-    width: 250px;
-    margin: 0px auto;
-  }
-}
 
 h1, h2, h3 {
   font-family: 'Roboto', sans-serif;
